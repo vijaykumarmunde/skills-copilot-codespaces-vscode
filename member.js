@@ -7,5 +7,5 @@ function skillMembers(params) {
         bindToController: true,
         scope:{number:'='}
     };
-    //This is for second Copilot example
+    //This is for second Copilot example...!
 }
